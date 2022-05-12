@@ -1,0 +1,9 @@
+﻿  Лабораторная работа 1 (ООП).cpp
+C:\Users\kirik\Desktop\ООП\Лабораторная работа 1 (ООП)\Лабораторная работа 1 (ООП).cpp(162,16): warning C4101: g: неиспользованная локальная переменная
+C:\Users\kirik\Desktop\ООП\Лабораторная работа 1 (ООП)\Лабораторная работа 1 (ООП).cpp(341,16): warning C4101: g: неиспользованная локальная переменная
+  Создание кода
+  11 of 147 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Лабораторная работа 1 (ООП).vcxproj -> C:\Users\kirik\Desktop\ООП\Лабораторная работа 1 (ООП)\Release\Лабораторная работа 1 (ООП).exe
